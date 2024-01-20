@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AstroSim", "AstroSim\AstroSim.vcxproj", "{EB3A4307-360B-4584-8CB7-1C4C68DF59AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3A4307-360B-4584-8CB7-1C4C68DF59AB}.Debug|x64.ActiveCfg = Debug|x64
+		{EB3A4307-360B-4584-8CB7-1C4C68DF59AB}.Debug|x64.Build.0 = Debug|x64
+		{EB3A4307-360B-4584-8CB7-1C4C68DF59AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB3A4307-360B-4584-8CB7-1C4C68DF59AB}.Debug|x86.Build.0 = Debug|Win32
+		{EB3A4307-360B-4584-8CB7-1C4C68DF59AB}.Release|x64.ActiveCfg = Release|x64
+		{EB3A4307-360B-4584-8CB7-1C4C68DF59AB}.Release|x64.Build.0 = Release|x64
+		{EB3A4307-360B-4584-8CB7-1C4C68DF59AB}.Release|x86.ActiveCfg = Release|Win32
+		{EB3A4307-360B-4584-8CB7-1C4C68DF59AB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7FD4C7B-0D56-4A1D-8BE1-D1D21FCE75DB}
+	EndGlobalSection
+EndGlobal
